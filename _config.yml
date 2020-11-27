@@ -23,5 +23,5 @@ paginate:         5
 version:          2.1.0
 
 github:
-  disable:       false
+  enable:         true
   repo:           https://github.com/poole/hyde
